@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42e53ec4-fce8-4d66-9064-328c2062be9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eksempelTimen/AnagramFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eksempelTimen/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eksempelTimen/SortWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testing/Anagram_test.java" afterDir="false" />
+    <list default="true" id="42e53ec4-fce8-4d66-9064-328c2062be9d" name="Changes" comment="eksempel fra forelesning 2. mandag.26.8.25">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.Anagram_test.angagramHasThreeMatches.executor": "Run",
+    "JUnit.Anagram_test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -65,7 +58,22 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Anagram_test">
+    <configuration name="Anagram_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anagram_v2_testITimen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing" />
+      <option name="MAIN_CLASS_NAME" value="testing.Anagram_test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Anagram_test.angagramHasThreeMatches" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="anagram_v2_testITimen" />
       <extension name="coverage">
@@ -97,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Anagram_test" />
         <item itemvalue="JUnit.Anagram_test.angagramHasThreeMatches" />
       </list>
     </recent_temporary>
@@ -109,11 +118,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724671722177</updated>
-      <workItem from="1724671723202" duration="3306000" />
+      <workItem from="1724671723202" duration="5157000" />
     </task>
+    <task id="LOCAL-00001" summary="eksempel fra forelesning 2. mandag.26.8.25">
+      <option name="closed" value="true" />
+      <created>1724676155916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724676155916</updated>
+    </task>
+    <task id="LOCAL-00002" summary="eksempel fra forelesning 2. mandag.26.8.25">
+      <option name="closed" value="true" />
+      <created>1724676167121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724676167121</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="eksempel fra forelesning 2. mandag.26.8.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="eksempel fra forelesning 2. mandag.26.8.25" />
   </component>
 </project>
